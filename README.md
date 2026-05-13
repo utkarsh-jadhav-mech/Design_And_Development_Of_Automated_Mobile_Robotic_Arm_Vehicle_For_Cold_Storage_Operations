@@ -19,7 +19,7 @@ An automated mobile robotic arm designed for cold storage operations to reduce m
 7. [Hardware Components](#hardware-components)
 8.  [Software Used](#software-used)  
 9. [Materials Used](#materials-used)  
-10.[Engineering Calculations](#engineering-calculations)
+10. [Engineering Calculations](#engineering-calculations)
 11. [CAD Design](#cad-design)
 12. [Working Principle](#working-principle)
 13. [Project Development Process](#project-development-process)
